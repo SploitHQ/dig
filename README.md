@@ -88,7 +88,7 @@ Want to build dig commands in your browser?
 
 ## 🔗 Useful Links
 
-- [Official dig man page](https://man7.org/linux/man-pages/man1/dig.1.html)
+- [Official dig man page](https://linux.die.net/man/1/dig)
 - [dig Generator on SploitHQ](https://sploithq.com/dig)
 
 ---
